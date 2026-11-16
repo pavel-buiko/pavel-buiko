@@ -5,6 +5,14 @@
 
 <p align="center">I build web apps, frontend components, and desktop tools.</p>
 
+
+## Contacts
+<p align="center">
+  <a href="https://t.me/PomeloAc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/pavel-buiko-6bb305316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+## Tech Stack
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black">
