@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I’m Pavel Buiko 👋</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh4c2JsZDFkZDRzZXpsczhzdnExdW8yMzVzcTg2cXphemk3em4ybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" width="460" alt="Animated profile banner">
