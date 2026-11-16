@@ -1,6 +1,10 @@
 
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVrZDA2Z2I4dHM2Z2J4ZHcyNTN1NXcydmNsZWcwaXo2NHBpb296cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="460" alt="Animated profile banner">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;size=22&amp;duration=3000&amp;color=7A9CEB&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=50&amp;lines=AI%20Enabled%20Fullstack%20Developer" alt="AI Enabled Fullstack Developer">
 </p>
 
