@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;size=22&amp;duration=3000&amp;color=7A9CEB&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=50&amp;lines=Ai%20Enabled%20Fullstack%20Developer" alt="Ai Enabled Fullstack Developer">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;size=22&amp;duration=3000&amp;color=7A9CEB&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=50&amp;lines=Ai%20Enabled%20Fullstack%20Developer" alt="AI Enabled Fullstack Developer">
 </p>
 
 <p align="center">
